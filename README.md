@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oschou
-- 👀 I’m interested in Frontend development, UX design, Content Creation
+- 👀 I’m interested in Frontend Development, UX Design, Content Creation
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on making coding more mainstream
 - 📫 How to reach me mail: o-schou@live.dk Insta: Oschou
