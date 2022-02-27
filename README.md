@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oschou
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Vue 3, Typescript
 - 💞️ I’m looking to collaborate on coding even more
 - 📫 How to reach me mail: o-schou@live.dk Insta: Oschou
 
